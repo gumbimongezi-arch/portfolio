@@ -1,18 +1,10 @@
 # Frankenstein Sibanyoni — Portfolio
 
-A self-contained, responsive portfolio site for Frankenstein Sibanyoni.
+A self-contained, responsive portfolio site of Frankenstein Sibanyoni.
 
 ## Run locally
 
 Open `index.html` in any modern web browser. No installation, framework, server, or build command is required.
-
-## Publish with GitHub Pages
-
-1. Create a new GitHub repository.
-2. Upload all files and folders in this directory, including `assets/`.
-3. In the repository, open **Settings → Pages**.
-4. Select **Deploy from a branch**, choose `main`, and choose the `/ (root)` folder.
-5. Save. GitHub will provide the public portfolio URL.
 
 ## Structure
 
